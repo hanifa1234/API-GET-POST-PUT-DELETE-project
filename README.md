@@ -1,1 +1,7 @@
-# API-GET-POST-PUT-DELETE-project
+GET (READ)
+
+POST (Create)
+
+PUT (Update)
+
+DELETE (Delete)
